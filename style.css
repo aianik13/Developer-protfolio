@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 30%;
 }
 .half-width{
     width: 50%;
@@ -30,4 +31,16 @@ width:80%;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-
+.iron-man{
+    text-decoration: none;
+    background:linear-gradient(orange , red);
+    color:white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.hey{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
